@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmnaHashem
 - 👀 I’m interested in data analytics, software development, machine learning, and AI
 - 🌱 I’m currently learning about data analytics, and full stack development
-- 💞️ I’m looking to collaborate on projects and new ideas
+- 💞️ I’m looking to collaborate on competitions, projects and new ideas
 - 📫 How to reach me on twitter @AmnaHashem_
 
 <!---
